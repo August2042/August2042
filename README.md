@@ -1,6 +1,6 @@
 # Hi there 👋 I am August Kumar!!
 
-I graduated in Computer Science Engineering (CSE) in 2024 and have 4 years of experience as an Excel trainer with iClass Gyansetu. I am a passionate learner with a positive attitude towards challenges. Currently, I am working on a Flutter project to build software and web applications.
+I graduated with a degree in Computer Science (CSE) in 2024. I am a passionate learner with a positive attitude towards challenges. Currently, I am working on a Flutter project to build software and web applications.
 
 ## My Current Tech Stack 🧑‍💻
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -35,6 +35,6 @@ I graduated in Computer Science Engineering (CSE) in 2024 and have 4 years of ex
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=August2042&layout=compact&theme=dark)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/august-k-269b09135/)
 
 
