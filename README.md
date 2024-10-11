@@ -28,8 +28,7 @@ I graduated with a degree in Computer Science (CSE) in 2024. I am a passionate l
 - 😊 Happy Learning!
 
 ## 📊 GitHub Stats
-
-![August Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=August2042&show_icons=true&theme=dark&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=August2042)
 
 ### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=August2042&layout=compact&theme=dark)
