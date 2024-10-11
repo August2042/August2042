@@ -35,8 +35,7 @@ I graduated with a degree in Computer Science (CSE) in 2024. I am a passionate l
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=August2042&layout=compact&theme=dark)
 
 ## Profile Views
-![Profile Views](https://hits.sh/github.com/August2042.svg?label=Profile%20Views%20%2B50&color=brightgreen&style=flat-square&logo=github&logoColor=white)
-
+![Profile Views](https://hits.sh/github.com/August2042.svg?label=Profile%20Views&color=brightgreen&style=flat-square&logo=github&logoColor=white&count_start=50)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/august-k-269b09135)
