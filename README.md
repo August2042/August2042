@@ -35,7 +35,8 @@ I graduated with a degree in Computer Science (CSE) in 2024. I am a passionate l
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=August2042&layout=compact&theme=dark)
 
 ## Profile Views
-![Customized Badge](https://img.shields.io/badge/Flutter-Developer-02569B?labelColor=black)
+![Customized Badge](https://img.shields.io/badge/Profile%20Views-100-brightgreen?style=flat-square&logo=github&logoColor=white)
+
 
 
 
