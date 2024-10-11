@@ -1,5 +1,4 @@
 
-
 # 👋 Hi, I'm August Kumar!
 
 I'm a **Computer Science graduate (2024)** passionate about learning and overcoming challenges in tech. Currently, I'm diving deep into **Flutter** to build exciting software and web applications.
@@ -21,7 +20,14 @@ I'm a **Computer Science graduate (2024)** passionate about learning and overcom
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pull%20Shark-FFC107?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
+
+---
+
+## ✨ Achievements
+
+<p align="center">
+    <img src="/mnt/data/image.png" alt="Pull Shark Badge" width="150" height="150"/>
 </p>
 
 ---
@@ -67,4 +73,3 @@ I'm a **Computer Science graduate (2024)** passionate about learning and overcom
 </p>
 
 ---
-
