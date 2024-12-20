@@ -28,7 +28,7 @@ I'm a **Computer Science graduate (2024)** passionate about learning and overcom
 
 ## ✨ About Me
 - 🔭 I’m currently working at **Voyagex AI** on the **Voyage Management System (VMS)** project.
-- 🌱 I’m learning **Java** and **Flutter** to enhance my app development skills.
+- 🌱 I’m learning **Java** and **Flutter** to enhance my development skills.
 - 💼 Open to collaboration and tech networking!
 - 📊 Feel free to reach out if you want to chat about **Flutter**, **Java**, or **Excel**.
 - 📫 Contact me: [augustkumar2014@gmail.com](mailto:augustkumar2014@gmail.com)
