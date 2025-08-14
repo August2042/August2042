@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm August Kumar!
 
-I'm a **Computer Science graduate (2024)** passionate about learning and overcoming challenges in tech. Currently, I'm diving deep into **Flutter** to build exciting software and web applications. 
+I'm a **Computer Science student** passionate about learning and overcoming challenges in tech. Currently, I'm diving deep into **Flutter** to build exciting software and web applications. 
 
 ## 🚀 My Current Tech Stack
 
